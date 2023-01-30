@@ -58,7 +58,7 @@ export default function Home() {
             <div className="text-center p-10 py-10">
               <p className="text-lg text-yellow-600  dark:text-yellow-500 md:text-lg font-SerifBLD">Let me introduce myself, </p>
               <h2 className="text-5xl py-2 text-amber-600   dark:text-amber-400 md:text-6xl font-SerifBLD">
-                I'm Matheus Pereira
+                I&apos;m Matheus Pereira
               </h2>
               <h3 className="text-xl py-2 font-mono dark:text-white md:text-3xl">
                 Piauí, Brazil
@@ -106,7 +106,7 @@ export default function Home() {
             <div>
               <h3 className="text-3xl py-1 dark:text-white font-SerifBLD">Projects</h3>
               <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-                And here are some projects I've developed.
+                And here are some projects I&apos;ve developed.
               </p>
 
             </div>
